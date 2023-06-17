@@ -1,0 +1,1 @@
+export const API_URL = 'https://ckdhkdwns-curly-memory-6w4g9xw9jjx3rv7g-3001.preview.app.github.dev/';
