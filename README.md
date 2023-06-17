@@ -1,6 +1,12 @@
 ## burgerking
 
+> 생각나는것만 일단 적음 근데 적을 거 많을 듯
 과제에서는 **native한 sql**을 사용하라고 했는데 일단 이건 사용 안 한 것 같음
+
+### 서버 주소
+`/src/constant/url` 들어가면 서버 주소를 입력하는 곳이 있음.
+로컬에서 실행하는거면 그냥 http://localhost:3001/ 입력하면 됨.
+
 ### 한 페이지 당 게시글 수 수정
 `src/component/postList.js` 안에 보면 `perSlice` 상수가 있습니다. 
 
@@ -25,7 +31,7 @@ node버전 안 맞으면 오류 엄청 납니다.
 node버전 맞추는 법은 구글에 nvm node version 어쩌구 치면 나옴
 
 ### 실행이 똑바로 된다면
-저는 코드스페이스에서 실행시켰는데 실행이 잘 안 돼서 정말 힘들었습니다. 로컬 환경에서 실행시키는 건 좀 더 쉬울까요?
+저는 코드스페이스에서 실행시켰는데 실행이 잘 안 돼서 정말 힘들었습니다. 
 ![1](https://user-images.githubusercontent.com/66898263/246614516-b1aef18d-6993-4216-85a4-b4f6459992bb.png)
 ![2](https://user-images.githubusercontent.com/66898263/246614536-851de461-cad3-4c6f-aa03-3020895c5ad4.png)
 ![3](https://user-images.githubusercontent.com/66898263/246614572-3167120c-3078-4bdc-8649-f169e3a56020.png)
